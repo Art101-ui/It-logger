@@ -1,0 +1,28 @@
+{
+  "logs": [
+    {
+      "message": "fixed the workstation",
+      "attention": true,
+      "tech": "Sam Smith",
+      "date": "2021-09-25T21:49:08.512Z",
+      "id": 2
+    }
+  ],
+  "techs": [
+    {
+      "id": 1,
+      "firstName": "Developer",
+      "lastName": "Badmus"
+    },
+    {
+      "id": 3,
+      "firstName": "Mayple",
+      "lastName": "Red"
+    },
+    {
+      "firstName": "Farouk",
+      "lastName": "Badmus",
+      "id": 4
+    }
+  ]
+}
